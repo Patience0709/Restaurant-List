@@ -42,6 +42,6 @@ express-handlebars 7.0.7
 Bootstrap 5.2.1
 
 ### Screenshot
-## ![home](https://github.com/Patience0709/Restaurant-List/main/public/img/home.jpg)
+## ![home](https://github.com/Patience0709/Restaurant-List/main/public/img/home.png)
 
-## ![page](https://github.com/Patience0709/Restaurant-List/main/public/img/page.jpg)
+## ![page](https://github.com/Patience0709/Restaurant-List/main/public/img/page.png)
