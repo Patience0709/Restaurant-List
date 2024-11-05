@@ -37,9 +37,9 @@ npm run start
 In your browser, open http://localhost:3000 to see the website.
 
 ### Tools
-express 4.18.2
-express-handlebars 7.0.7
-Bootstrap 5.2.1
+- express 4.18.2
+- express-handlebars 7.0.7
+- Bootstrap 5.2.1
 
 ### Screenshot
 ## ![home](https://github.com/Patience0709/Restaurant-List/blob/main/public/img/home.png)
